@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "755320089018",
+    "project_id": "evident-post-452016-h3",
+    "storage_bucket": "evident-post-452016-h3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755320089018:android:c12f6e50ca29b191435583",
+        "android_client_info": {
+          "package_name": "com.example.nomard_tiktok_final"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3eyXlvidDQtgtF6V2xaE4WQEPgfbA6eg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
